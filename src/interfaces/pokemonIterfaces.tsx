@@ -15,5 +15,5 @@ export interface SimplePokemon {
     id: string;
     name: string;
     picture:  string;
-    coloe?:  string;
+    color?:  string;
 }
